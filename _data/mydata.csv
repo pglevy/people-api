@@ -1,0 +1,20 @@
+What you know,Know symbol,What you need,Need symbol,Multiplier,Category
+centimeters,cm,inches,in,0.393701,Length
+meters,m,feet,ft,3.28084,Length
+meters,m,yards,yd,1.093613,Length
+kilometers,km,miles,mi,0.621371,Length
+square centimeters,cm²,square inches,in²,0.155,Area
+square meters,m²,square feet,ft²,10.76391,Area
+square meters,m²,square yards,yd²,1.19599,Area
+square kilometers,km²,square miles,mi²,0.386102,Area
+hectares,ha,acres,null,2.471054,Area
+grams,g,ounces,oz,0.035274,Mass
+kilograms,kg,pounds,lb,2.204623,Mass
+metric tons,t,short tons,null,1.102311,Mass
+milliliters,mL,cubic inches,in³,0.061024,Volume
+milliliters,mL,liquid ounces,liq oz,0.033814,Volume
+liters,L,pints,pt,2.113376,Volume
+liters,L,quarts,qt,1.056688,Volume
+liters,L,gallons,gal,0.264172,Volume
+cubic meters,m³,cubic feet,ft³,35.31467,Volume
+cubic meters,m³,cubic yards,yd³,1.307951,Volume

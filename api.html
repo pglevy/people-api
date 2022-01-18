@@ -1,0 +1,16 @@
+---
+permalink: /api.json
+---
+
+[
+  {% for row in site.data[site.data-file-name]  %}
+    {
+      {% for item in site.data[site.data-file-name][0] %}
+      {% assign heading = item[0] %}        
+        "{{ heading }}": "{{ row[heading] }}"
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

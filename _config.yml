@@ -1,0 +1,20 @@
+# Set a plain language title for the site.
+title: No-Code API with GitHub Pages | GitHub for No-Coders
+
+# Write a short description for the site. This is used for "meta description."
+description: A template for creating a read-only API from a CSV file and hosting it on GitHub Pages
+
+# Set the language for the site. Used for "html lang." Default is English.
+lang: en
+
+# Add Google Analytics if needed. Replace placeholder with site ID.
+ga: UA-XXXXX-Y
+
+# Avoid GitHub API authentication when building locally.
+github: [metadata]
+
+# Enable for live hosting on GitHub Pages
+baseurl: /nocode-api-github-pages
+
+# Change the name of the CSV file if you don't want to use the default name. (Just the filename; no extension)
+data-file-name: mydata
