@@ -1,4 +1,4 @@
-name,email,phone
-Monica Washington,monica.washington@example.com,(295)-299-4717
-Hilda Green,hilda.green@example.com,(824)-515-3499
-Leon Evans III,leon.evans@example.com,(232)-541-1727
+name,email,phone,photo
+Monica Washington,monica.washington@example.com,(295)-299-4717,https://randomuser.me/api/portraits/women/67.jpg
+Hilda Green,hilda.green@example.com,(824)-515-3499,https://randomuser.me/api/portraits/women/18.jpg
+Leon Evans III,leon.evans@example.com,(232)-541-1727,https://randomuser.me/api/portraits/men/64.jpg
